@@ -1,0 +1,5 @@
+Power Duration Curve:
+
+    TIME_GRANULARITY:       1.0   # Time granularity over which to calculate the average window in a sliding window [s]
+    MIN_WINDOW_DURATION:    10    # Minimum duration of a window to include in the PDC [s]
+    WINDOW_DURATION_STEP:   60    # Difference in duration between subsequent entries in the PDC [s]
